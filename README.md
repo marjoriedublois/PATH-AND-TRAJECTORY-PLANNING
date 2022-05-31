@@ -2,16 +2,16 @@
  
  Spherical Path and Trajectory
  
- <img src="IMG/PetCo.JPG">
+ <img src="IMG/PetCo.jpeg">
 
        Cubic Revolute
- <img src="IMG/cubicR.JPG">
+ <img src="IMG/cubicR.jpeg">
  
         Cubic Primatic
- <img src="IMG/cubicP.JPG">
+ <img src="IMG/cubicP.jpeg">
  
         Quintic Revolute
- <img src="IMG/quinticR.JPG">
+ <img src="IMG/quinticR.jpeg">
  
         Quintic Prismatic
- <img src="IMG/quinticP.jpg">
+ <img src="IMG/quinticP.jpeg">
