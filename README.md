@@ -1,17 +1,16 @@
 # PATH-AND-TRAJECTORY-PLANNING
  
- Spherical Path and Trajectory
- 
+                               Spherical Path and Trajectory 
  <img src="IMG/PetCo.jpeg">
 
-       Cubic Revolute
+                                     Cubic Revolute
  <img src="IMG/cubicR.jpeg">
  
-        Cubic Primatic
+                                     Cubic Primatic
  <img src="IMG/cubicP.jpeg">
  
-        Quintic Revolute
+                                     Quintic Revolute
  <img src="IMG/quinticR.jpeg">
  
-        Quintic Prismatic
+                                     Quintic Prismatic
  <img src="IMG/quinticP.jpeg">
